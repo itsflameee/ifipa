@@ -11,6 +11,12 @@
     margin-top: 20%;
 }
 
+.welcome_buttons {
+    display: flex;
+    flex-direction: row;
+    margin-top: 5%;
+}
+
 .opensans {
     font-family: "Open Sans", sans-serif;
     font-optical-sizing: auto;
